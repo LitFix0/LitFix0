@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋 I'm Shashank Rawat</h1>
-<h3 align="center">Final-year B.Tech AI/ML · Building at the intersection of LLMs, RAG & real-time systems</h3>
+<h3 align="center"> B.Tech AI/ML · Building at the intersection of LLMs, RAG & real-time systems</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/
