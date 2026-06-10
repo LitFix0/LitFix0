@@ -13,7 +13,7 @@ shashank-rawat-2768272ab
 
 ## 🧠 About Me
 
-- 🎓 B.Tech AI/ML · Final Year
+- 🎓 B.Tech AI/ML · 
 - 🔭 Currently building: **Football Analysis System** (YOLOv8 + ByteTrack + PyTorch)
 - 🚀 Open to: **GenAI Engineer · LLM Developer · NLP Engineer · ML Engineer** roles
 - 🏗️ I ship end-to-end — from architecture to deployment
