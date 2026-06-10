@@ -52,7 +52,8 @@ shashank-rawat-2768272ab
 ---
 
 ### 🧳 [Luggage Intel](https://github.com/LitFix0/LUGGAGE-INTEL)
-> AI-powered lost luggage tracking system.
+> Built an end-to-end competitive intelligence pipeline by scraping Amazon India product listings and 3,900+ reviews across 6 brands and 60+
+products using Playwright with anti-detection mechanisms
 
 `Computer Vision` `Python` `FastAPI`
 
