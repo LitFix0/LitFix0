@@ -24,7 +24,7 @@ shashank-rawat-2768272ab
 ## 🚀 Featured Projects
 
 ### 🔍 [AI Code Review Agent](https://github.com/LitFix0/AI_CODE_REVIEWER) · *[Live Demo](https://aicodereviewer-cgd6nbbjdkq8dbttnihrjo.streamlit.app/)*
-> Autonomous agentic pipeline: clones any GitHub repo → AST-parses Python files → sends chunks to **LLaMA 3.3 70B via Groq** → returns confidence-scored, severity-rated review comments on a Streamlit dashboard. Found 127 issues across 7 files in a single run.
+> Autonomous agentic pipeline: clones any GitHub repo → AST-parses Python files, Rust files & JS files → sends chunks to **LLaMA 3.3 70B via Groq** → returns confidence-scored, severity-rated review comments on a Streamlit dashboard. Found 127 issues across 7 files in a single run.
 
 `Python` `Groq` `LLaMA 3.3 70B` `AST` `Streamlit` `GitPython`
 
