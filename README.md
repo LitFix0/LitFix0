@@ -38,7 +38,7 @@ shashank-rawat-2768272ab
 ---
 
 ### ⚡ [KafkaPulse](https://github.com/LitFix0/KAFKA-PULSE)
-> Real-time news sentiment pipeline. Producer fetches live articles → **Apache Kafka** streams them → Consumer runs VADER NLP → results stored in MongoDB → live React dashboard with auto-refresh. Full stack, single command startup.
+> Real-time news intelligence platform. Producer fetches live articles → Apache Kafka streams to dual consumers → VADER sentiment pipeline stores to MongoDB → embedding consumer indexes 384-dim vectors in ChromaDB → Groq-hosted LLaMA enables conversational RAG Q&A → live React dashboard with sentiment analytics and source-grounded chat. 6 microservices, single command startup.
 
 `Apache Kafka` `Python` `VADER NLP` `MongoDB` `FastAPI` `React`
 
