@@ -109,7 +109,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=LitFix0&theme=tokyonight&hide_border=true"/>
+  <img src="https://raw.githubusercontent.com/LitFix0/LitFix0/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
 
 <p align="center">
